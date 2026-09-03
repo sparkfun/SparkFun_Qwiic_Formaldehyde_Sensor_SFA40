@@ -24,7 +24,7 @@ calibrated formaldehyde levels with no soldering.
 
 ## Product Versions
 
-* **[SEN-XXXXX](https://www.sparkfun.com/products/XXXXX)** - Initial release of the SparkFun Qwiic Formaldehyde Sensor - SFA40.
+* **[SEN-31669](https://www.sparkfun.com/products/31669)** - Initial release of the SparkFun Qwiic Formaldehyde Sensor - SFA40.
 
 ## License Information
 
