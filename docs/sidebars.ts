@@ -71,7 +71,7 @@ const sidebars: SidebarsConfig = {
             items: [
                 'support/troubleshooting',
                 'support/file_issue',
-                'support/contribute'
+                'support/contribute',
             ]
         }
     ]
