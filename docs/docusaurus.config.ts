@@ -144,8 +144,8 @@ const config: Config = {
                     title: 'SparkFun Formaldehyde Sensor - SFA40 (Qwiic)',
                     items: [
                         {
-                            label: 'QwiicCurrentSensorADE7953',
-                            href: 'https://www.sparkfun.com/sparkfun-non-invasive-current-sensor-ade7953-qwiic.html'
+                            label: 'QwiicFormaldehydeSensorSFA40',
+                            href: 'https://www.sparkfun.com/https://www.sparkfun.com/sparkfun-formaldehyde-sensor-sfa40.html'
                         },
                     ],
                 },
