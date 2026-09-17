@@ -1,3 +1,7 @@
+---
+slug: /
+---
+
 # Introduction
 
 [SparkFun Formaldehyde Sensor - SFA40 (Qwiic) Banner Image](/img/Qwiic_Formaldehyde-HGBanner.png)
