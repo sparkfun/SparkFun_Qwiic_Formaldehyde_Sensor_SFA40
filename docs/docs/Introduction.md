@@ -4,7 +4,7 @@ slug: /
 
 # Introduction
 
-[SparkFun Formaldehyde Sensor - SFA40 (Qwiic) Banner Image](/img/Qwiic_Formaldehyde-HGBanner.png)
+![SparkFun Formaldehyde Sensor - SFA40 (Qwiic) Banner Image](/img/Qwiic_Formaldehyde-HGBanner.png)
 
 The SparkFun Formaldehyde Sensor - SFA40 (Qwiic) . The SFA40 is a compact electrochemical indoor gas sensor calibrated to measure concentrations of formaldehyde gas with low cross-sensitivity to other common indoor gases like ethanol and nitrogen dioxide. The SFA40 communicates over I<sup>2</sup>C so naturally we've put it on a Qwiic board to easily power and communicate with it in the Qwiic ecosystem. 
 
