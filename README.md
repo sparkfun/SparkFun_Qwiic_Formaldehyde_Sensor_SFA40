@@ -1,8 +1,6 @@
-# SparkFun Qwiic Formaldehyde Sensor - SFA40
+[![SparkFun Formaldehyde Sensor - SFA40 (Qwiic)](/docs/img/Qwiic_Formaldehyde-HGBanner.png)](https://www.sparkfun.com/sparkfun-formaldehyde-sensor-sfa40.html)
 
-[![SparkFun Qwiic Formaldehyde Sensor - SFA40](Documents/images/SFA40.png)](https://www.sparkfun.com/products/XXXXX)
-
-The SparkFun Qwiic Formaldehyde Sensor is a compact indoor air quality breakout built around the SFA40 from Sensirion.
+The [SparkFun Formaldehyde Sensor - SFA40 (Qwiic)](https://www.sparkfun.com/sparkfun-formaldehyde-sensor-sfa40.html) is a compact indoor air quality breakout built around the SFA40 from Sensirion.
 The SFA40 is an electrochemical sensor that measures formaldehyde (HCHO) from 0 to 2000 ppb, with very low cross-sensitivity 
 to common indoor gases like ethanol. It is factory-calibrated and outputs concentration directly over I2C, and an onboard 
 humidity and temperature sensor compensates the reading automatically. We've wired it to Qwiic connectors so you can read 
@@ -24,7 +22,7 @@ calibrated formaldehyde levels with no soldering.
 
 ## Product Versions
 
-* **[SEN-31669](https://www.sparkfun.com/products/31669)** - Initial release of the SparkFun Qwiic Formaldehyde Sensor - SFA40.
+* **[SEN-31669](https://www.sparkfun.com/sparkfun-formaldehyde-sensor-sfa40.html)** - Initial release of the SparkFun Qwiic Formaldehyde Sensor - SFA40.
 
 ## License Information
 
