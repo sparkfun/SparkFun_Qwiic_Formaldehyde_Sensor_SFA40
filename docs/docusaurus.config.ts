@@ -11,7 +11,7 @@ const indexName = process.env.ALGOLIA_INDEX_NAME;
 
 const config: Config = {
     title: 'SparkFun Formaldehyde Sensor - SFA40 (Qwiic)',
-    tagline: 'Measure AC current with no wire cutting or splicing over I2C with the SparkFun Formaldehyde Sensor - SFA40 (Qwiic).',
+    tagline: 'Monitor concentration of formaldehyde gas indoors with the SparkFun Formaldehyde Sensor - SFA40 (Qwiic).',
     favicon: 'img/favicon.ico',
 
     // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
