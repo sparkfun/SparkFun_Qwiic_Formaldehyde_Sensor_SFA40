@@ -6,7 +6,7 @@ In this Quick Start guide we'll wire the SparkFun Formaldehyde Sensor - SFA40 (Q
 
 Since this is a Qwiic breakout, all we need to do is connect it to the RedBoard using a Qwiic cable and then plug the RedBoard into a computer over USB:
 
-[Photo showing completed Qwiic circuit with RedBoard IoT - RP2350](/img/Qwiic_Formaldehyde-Action.jpg)
+![Photo showing completed Qwiic circuit with RedBoard IoT - RP2350](/img/Qwiic_Formaldehyde-Action.jpg)
 
 ## Arduino Example
 
