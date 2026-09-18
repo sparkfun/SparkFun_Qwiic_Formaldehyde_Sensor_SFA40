@@ -1,12 +1,8 @@
 # Troubleshooting
 
-## Channel A and Channel B Direct Connection
+## Stabilization Period
 
-The Non-Invasive Current Sensor board is designed to work with a current transformer with a CT ratio of 2000:1 connected to the 3.5mm TRRS jack. The through-hole connections to Channel A and B do not have any extra current transformation ratio integrated and operate at a 1:1 ratio. As a result, AC loads connected to these pins should not exceed **100mA**.
-
-## ADE7953 SPI Interface
-
-The Non-Invasive Current Sensor board design only supports the ADE7953's I<sup>2</sup>C and UART interfaces as it does not break out the SCLK and CS pins for communicating over SPI. While not supported by SparkFun, if you need to use the ADE7953 over SPI you can adjust the SCLK and CS jumpers to enable SPI and then carefully solder to the SCLK and CS solder jumper pads to make those connections. 
+The SFA40 requires a stabilization of approximately 10 minutes before it returns formaldehyde readings that are within the sensor's specifications. During the first minute after power-up or reset it returns formaldehyde readings of 0. After the first minute, the sensor returns formaldehyde readings but they are not considered within specification by the sensor. The SFA40 reports a status indicator byte to allow users to determine what state the sensor is in. Example 4 in the SparkFun SFA40 Arduino Library demonstrates how to poll the SFA40 for the status byte to determine the validity of formaldehyde data.
 
 ## Support
 
