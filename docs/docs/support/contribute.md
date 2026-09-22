@@ -5,7 +5,7 @@
 
 All of this documentation can be modified by you! Please help us make it better.
 
-* These pages are contained in the [`docs` folder of the SparkFun Qwiic Qwiic Current Sensor INA2XX repository](https://github.com/sparkfun/SparkFun_Qwiic_Current_Sensor_INA2XX/tree/main/docs).
+* These pages are contained in the [`docs` folder of the SparkFun Formaldehyde Sensor - SFA40 (Qwiic) repository](https://github.com/sparkfun/SparkFun_Qwiic_Formaldehyde_Sensor_SFA40/tree/main/docs).
 
 ### Submit a Correction
 
@@ -19,7 +19,7 @@ All of this documentation can be modified by you! Please help us make it better.
 
 This hardware design is open-source! Please help us make it better.
 
-* Our board design files are contained in the [`Hardware` folder of the SparkFun Qwiic Qwiic Current Sensor INA2XX repository](https://github.com/sparkfun/SparkFun_Qwiic_Current_Sensor_INA2XX/tree/main/Hardware).
+* Our board design files are contained in the [`Hardware` folder of the SparkFun Formaldehyde Sensor - SFA40 (Qwiic) repository](https://github.com/sparkfun/SparkFun_Qwiic_Formaldehyde_Sensor_SFA40/tree/main/Hardware).
 
 ### Submit a Design Improvement
 

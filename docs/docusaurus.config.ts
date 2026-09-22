@@ -88,7 +88,7 @@ const config: Config = {
             //------------------------------------------------------------------
             // NOTE: If using the overall doc index, set  this facet filter up
             //------------------------------------------------------------------
-            // // only search in the SparkFun Qwiic Qwiic Current Sensor INA2XX documentation - restrict on the section facet
+            // // only search in the SparkFun Formaldehyde Sensor - SFA40 (Qwiic) documentation - restrict on the section facet
             searchParameters: {
                 facetFilters: ['section:SparkFun_Qwiic_Formaldehyde_Sensor_SFA40'],
             },
